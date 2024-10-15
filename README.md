@@ -99,7 +99,7 @@ This will execute the KNN and Logistic Regression models and display the results
 
 ## Future Work
 
-- Explore more advanced algorithms like Support Vector Machines (SVM) or Neural Networks to improve classification accuracy.
+- Explore more advanced algorithms like Support Vector Machines (SVM) or Neural Networks to improve classification accuracy
 - Perform feature engineering to enhance the input data quality.
 - Investigate the model's performance under different dataset distributions and introduce cross-validation for better generalization.
 
